@@ -4,7 +4,7 @@
   "homepage": "https://graphitilabs.github.io/graphiti-site",
   "scripts": {
     "predeploy": "vite build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
