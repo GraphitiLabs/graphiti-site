@@ -9,7 +9,7 @@ function Process() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4" data-aos="fade-up">Built with performance and decentralization in mind</h2>
-            <p className="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200">Our AI-Rollup (AIR) solution allows models to run effectively on chain!</p>
+            <p className="text-xl text-gray-700" data-aos="fade-up" data-aos-delay="200">Our AI-Rollup (AIR) solution allows models to run effectively on chain!</p>
           </div>
 
           {/* Items */}
@@ -23,9 +23,9 @@ function Process() {
                 <path strokeWidth=".1" strokeLinecap="square" className="stroke-current text-blue-500" fill="currentColor" d="M12,16A3,3 0 0,1 9,13C9,11.88 9.61,10.9 10.5,10.39L20.21,4.77L14.68,14.35C14.18,15.33 13.17,16 12,16M12,3C13.81,3 15.5,3.5 16.97,4.32L14.87,5.53C14,5.19 13,5 12,5A8,8 0 0,0 4,13C4,15.21 4.89,17.21 6.34,18.65H6.35C6.74,19.04 6.74,19.67 6.35,20.06C5.96,20.45 5.32,20.45 4.93,20.07V20.07C3.12,18.26 2,15.76 2,13A10,10 0 0,1 12,3M22,13C22,15.76 20.88,18.26 19.07,20.07V20.07C18.68,20.45 18.05,20.45 17.66,20.06C17.27,19.67 17.27,19.04 17.66,18.65V18.65C19.11,17.2 20,15.21 20,13C20,12 19.81,11 19.46,10.1L20.67,8C21.5,9.5 22,11.18 22,13Z" />
                 </svg>
               <h4 className="h4 mb-2">Efficient</h4>
-              <p className="text-lg text-gray-600 text-center">Our system performs
-              <span className='font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'> mangitudes better </span>
-              than what can currently be achieved on blockchains.</p>
+              <p className="text-lg  text-gray-700 text-center">Our system brings
+              <span className='font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'> speed and scalability </span>
+              to AI that effectively runs on blockchains. We minimize resource consumption without compromising performance.</p>
             </div>
 
             {/* 2nd item */}
@@ -37,7 +37,7 @@ function Process() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Trustless</h4>
-              <p className="text-lg text-gray-600 text-center">We run Al models off-chain and produce  <span className='font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'> zero-knowledge proofs</span> of their execution. The proof is verified on consensus-based smart contract enabled blockchains.</p>
+              <p className="text-lg  text-gray-700 text-center">We run Al models off-chain and produce <span className='font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'> zero-knowledge proofs</span> of their execution. The proof is verified on consensus-based smart contract enabled blockchains.</p>
             </div>
 
             {/* 3rd item */}
@@ -47,7 +47,10 @@ function Process() {
                 <path strokeWidth=".1" className="stroke-current text-blue-500" fill="currentColor" d="M12,17A2,2 0 0,0 14,15C14,13.89 13.1,13 12,13A2,2 0 0,0 10,15A2,2 0 0,0 12,17M18,8A2,2 0 0,1 20,10V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V10C4,8.89 4.9,8 6,8H7V6A5,5 0 0,1 12,1A5,5 0 0,1 17,6V8H18M12,3A3,3 0 0,0 9,6V8H15V6A3,3 0 0,0 12,3Z" />                  <path className="stroke-current text-gray-100" strokeWidth="2" strokeLinecap="square" d="M36 32l-4-3-4 3V22h8z" />
               </svg>
               <h4 className="h4 mb-2">Tamper Proof</h4>
-              <p className="text-lg text-gray-600 text-center"> <span className='font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>Al model IP remains invisible </span>to users. The hash of the model is committed on chain so that only approved models are used to serve clients. </p>
+              <p className="text-lg  text-gray-700 text-center">
+              <span className='font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>
+                Intellectual property remains invisible </span>
+                to users. The hash of the model is committed on chain so that only approved models are used to serve clients. </p>
             </div>
 
           </div>

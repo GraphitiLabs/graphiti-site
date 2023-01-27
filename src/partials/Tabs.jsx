@@ -125,9 +125,9 @@ function Tabs() {
                 leaveEnd="opacity-0 scale-98"
               >
                 <article className="relative max-w-md mx-auto md:max-w-none">
-                  <div className="relative bg-gray-200 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
+                  <div className="relative bg-gradient-to-r from-blue-200 to-sky-100 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
                     <h4 className="h4 mb-2">Predictions sent straight to your smart contracts</h4>
-                    <p className="text-lg text-gray-700">Get AI powered insights about twitter sentiment, NFT price predictions, and access TradFi models on-chain to power unique smart contact applications. Have an AI oracle feed in mind that we don’t have? Get in touch and we’ll build it for you!</p>
+                    <p className="text-lg text-gray-700">Get AI powered insights about twitter sentiment trading signals, NFT price predictions, and access TradFi models on-chain to power unique smart contact applications. </p>
                   </div>
                 </article>
               </Transition>
@@ -145,7 +145,7 @@ function Tabs() {
                 leaveEnd="opacity-0 scale-98"
               >
                 <article className="relative max-w-md mx-auto md:max-w-none">
-                  <div className="relative bg-gray-200 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
+                  <div className="relative bg-gradient-to-r from-blue-200 to-sky-100 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
                     <h4 className="h4 mb-2">Augment your DeFi apps with better trading tools and lending capability</h4>
                     <p className="text-lg text-gray-700">Build and incorporate decentralized crypto trading signals into your smart contracts and DApps! Identify transaction behavior that is malicious, and automatically raise fees for these users.</p>
                   </div>
@@ -166,8 +166,8 @@ function Tabs() {
                 leaveEnd="opacity-0 scale-98"
               >
                 <article className="relative max-w-md mx-auto md:max-w-none">
-                  <div className="relative bg-gray-200 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
-                    <h4 className="h4 mb-2">DAOs leverage trustless insight</h4>
+                  <div className="relative bg-gradient-to-r from-blue-200 to-sky-100 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
+                    <h4 className="h4 mb-2">DAOs that leverage trustless insight</h4>
                     <p className="text-lg text-gray-700">Grant DAO members access to trustless AI feeds to make better decisions. Have decentralized moderation on DAO proposals to mitigate clutter and spam. Make optimized decisions by governing ML driven smart contracts.</p>
                   </div>
                 </article>
@@ -186,9 +186,9 @@ function Tabs() {
                 leaveEnd="opacity-0 scale-98"
               >
                 <article className="relative max-w-md mx-auto md:max-w-none">
-                  <div className="relative bg-gray-200 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
-                    <h4 className="h4 mb-2">Infuse NFTs with AI</h4>
-                    <p className="text-lg text-gray-700"> Add randomness and ingenuity to generative NFTs by involving ML models in their creation. Allow these NFTs to evolve using AI based NFT potions. Own your AI art with our ZK-AI NFT proofs!</p>
+                  <div className="relative bg-gradient-to-r from-blue-200 to-sky-100 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
+                    <h4 className="h4 mb-2">Infuse NFTs with AI!</h4>
+                    <p className="text-lg text-gray-700"> Add randomness and ingenuity to generative NFTs by involving ML models in their creation. Allow these NFTs to evolve using AI based NFT potions. Own your AI art with our novel zero-knowledge proofs!</p>
                   </div>
                 </article>
               </Transition>
@@ -206,9 +206,10 @@ function Tabs() {
                 leaveEnd="opacity-0 scale-98"
               >
                 <article className="relative max-w-md mx-auto md:max-w-none">
-                  <div className="relative bg-gray-200 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
+                  <div className="relative bg-gradient-to-r from-blue-200 to-sky-100 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
                     <h4 className="h4 mb-2">Tired of shadow bans but don’t want spam?</h4>
-                    <p className="text-lg text-gray-700">Use trustless sentiment analysis to detect aggression and offensive language, to keep your Dapp user friendly. Use privacy preserving spam detection to smartly curate content on your Dapp in a Web3 native way. </p>
+                    <p className="text-lg text-gray-700">Use trustless sentiment analysis to detect aggression and offensive language, to keep your DApp user friendly.
+                    Use privacy preserving spam detection to curate content in a Web3 native way. </p>
                   </div>
                 </article>
               </Transition>
@@ -226,9 +227,11 @@ function Tabs() {
                 leaveEnd="opacity-0 scale-98"
               >
                 <article className="relative max-w-md mx-auto md:max-w-none">
-                  <div className="relative bg-gray-200 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
+                  <div className="relative bg-gradient-to-r from-blue-200 to-sky-100 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
                     <h4 className="h4 mb-2">A new layer of security</h4>
-                    <p className="text-lg text-gray-700">Leverage biometric authentication models on crypto wallets to protect your users' funds! No more fear over hacks and attacks when user data has another layer of private protection without KYC!</p>
+                    <p className="text-lg text-gray-700">Leverage biometric authentication models on crypto wallets to protect your users funds!
+                     Provide zero-knowledge proofs of membership to existing Web3 services.
+                    </p>
                   </div>
                 </article>
               </Transition>
@@ -246,9 +249,9 @@ function Tabs() {
                 leaveEnd="opacity-0 scale-98"
               >
                 <article className="relative max-w-md mx-auto md:max-w-none">
-                  <div className="relative bg-gray-200 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
+                <div className="relative bg-gradient-to-r from-blue-200 to-sky-100 py-8 md:py-16 px-6 md:pr-16 rounded-xl">
                     <h4 className="h4 mb-2">We're working hard!</h4>
-                    <p className="text-lg text-gray-700">We're working on adding more products to our line. If you have a specific use case built out, reach out to us!</p>
+                    <p className="text-lg text-gray-700">We're constantly ideating to add new offerings. If you have a specific use case you'd like us to build out, reach out to us!</p>
                   </div>
                 </article>
               </Transition>
@@ -256,14 +259,15 @@ function Tabs() {
           </div>
 
           {/* Text */}
-          <div className="max-w-3xl mx-auto sm:max-w-none sm:flex sm:justify-center text-center pt-6 pb-6" data-aos-id-tabs>
-            <p className="text-xl text-gray-700" data-aos="fade-up">Have questions? Don't see your use case?</p>
+          <div className="max-w-3xl mx-auto sm:max-w-none sm:grid content-center gap-y-2 sm:justify-center text-center pt-6 pb-6" data-aos-id-tabs>
+            <p className="text-xl text-gray-700" data-aos="fade-up">Have a use case in mind that we don’t have?</p>
+            <p className="text-xl text-gray-700" data-aos="fade-up">Get in touch and we’ll build it for you!</p>
           </div>
 
           {/* Button */}
           <div className="max-w-3xl mx-auto sm:max-w-none sm:flex sm:justify-center">
             <div data-aos="fade-up" data-aos-delay="400">
-              <a className="btn text-white bg-blue-500 hover:bg-blue-600 w-full mb-4 sm:w-auto sm:mb-0" href="#0" onClick={(e) => { setCheck(false); e.preventDefault(); e.stopPropagation(); setVideoModalOpen(true); }}>
+              <a className="btn text-white bg-blue-500 hover:bg-blue-600 rounded-xl w-full mb-4 sm:w-auto sm:mb-0" href="#0" onClick={(e) => { setCheck(false); e.preventDefault(); e.stopPropagation(); setVideoModalOpen(true); }}>
                 Reach out to us!
               </a>
             </div>
@@ -272,14 +276,14 @@ function Tabs() {
           <Modal id="modal" ariaLabel="modal-headlinew to" show={videoModalOpen} handleClose={() => setVideoModalOpen(false)}>
             <div class="relative w-full h-full max-w-xl md:h-auto">
 
-              <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
+              <div class="relative bg-white rounded-xl shadow dark:bg-gray-700">
 
                 <div class="flex content-center items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
                   <h3 class="text-xl font-semibold text-gray-700 dark:text-white">
                     Reach out to us!
                   </h3>
                   <div data-aos="fade-up" data-aos-delay="400">
-                    <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-600 dark:hover:text-white" onClick={(e) => setVideoModalOpen(false)}>
+                    <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-xl text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-600 dark:hover:text-white" onClick={(e) => setVideoModalOpen(false)}>
                       <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                     </button>
                   </div>
@@ -297,7 +301,7 @@ function Tabs() {
                   </div>
 
                   <div class="">
-                    <button type="button" class="mb-3 mt-3 text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-600 dark:hover:text-white" onClick={(e) => { navigator.clipboard.writeText("ketan@graphiti.app"); setCheck(true); }}>
+                    <button type="button" class="mb-3 mt-3 text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-xl text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-600 dark:hover:text-white" onClick={(e) => { navigator.clipboard.writeText("ketan@graphiti.app"); setCheck(true); }}>
                       {
                         checked ?
                         <svg class="w-7 h-7 text-green-500" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

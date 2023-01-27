@@ -29,7 +29,7 @@ function HeroHome() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400" data-aos="fade-up">Making AI a blockchain native resource</h2>
+            <h2 className="h2 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400" data-aos="fade-up">Making artificial intelligence a blockchain native resource</h2>
             <div className="text-2xl text-gray-700 mb-8 pt-4" data-aos="fade-up" data-aos-delay="200">
               <p>
                 Imagine a world where AI systems are not controlled by any single entity or organization,
