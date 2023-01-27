@@ -28,12 +28,12 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        <Process />
-        <FeaturesHome />
         <Tabs />
-        <Target />
-        <News />
-        <Newsletter />
+        {/* <FeaturesHome /> */}
+        <Process />
+        {/* <Target /> */}
+        {/* <News /> */}
+        {/* <Newsletter /> */}
 
       </main>
 

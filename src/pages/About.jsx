@@ -29,13 +29,13 @@ function About() {
 
         {/*  Page sections */}
         <HeroAbout />
-        <TeamImages />
+        {/* <TeamImages /> */}
         <Timeline />
         <Team />
-        <TestimonialsCarousel />
-        <Career />
-        <Clients />
-        <Newsletter />
+        {/* <TestimonialsCarousel /> */}
+        {/* <Career /> */}
+        {/* <Clients /> */}
+        {/* <Newsletter /> */}
 
       </main>
 
