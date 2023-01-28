@@ -64,7 +64,7 @@ function Timeline() {
               <div className="pl-2">
                 {/* <div className="font-mono text-lg text-blue-500 mb-2">Huge milestone</div> */}
                 <div className="flex items-center mb-3">
-                  <div className="absolute -left-5 inline-flex text-sm font-semibold py-1 px-3  text-gray-700  bg-green-200 rounded-full">May 2022</div>
+                  <div className="absolute -left-3 inline-flex text-sm font-semibold py-1 px-2  text-gray-700  bg-green-200 rounded-full">May 2022</div>
                   <div className="absolute left-0 h-full px-px bg-gray-800 ml-20 self-start transform -translate-x-1/2 translate-y-3" aria-hidden="true"></div>
                   <div className="absolute left-0 w-2 h-2 bg-blue-500 border-4 box-content border-gray-900 rounded-full ml-20 transform -translate-x-1/2" aria-hidden="true"></div>
                   <h4 className="h4">FTX Regrant Program</h4>
@@ -78,7 +78,7 @@ function Timeline() {
               <div className="pl-2">
                 {/* <div className="font-mono text-lg text-blue-500 mb-2">Huge milestone</div> */}
                 <div className="flex items-center mb-3">
-                  <div className="absolute -left-5 inline-flex text-sm font-semibold py-1 px-3  text-gray-700  bg-green-200 rounded-full">Jun 2022</div>
+                  <div className="absolute -left-3 inline-flex text-sm font-semibold py-1 px-2  text-gray-700  bg-green-200 rounded-full">Jun 2022</div>
                   <div className="absolute left-0 h-full px-px bg-gray-800 ml-20 self-start transform -translate-x-1/2 translate-y-3" aria-hidden="true"></div>
                   <div className="absolute left-0 w-2 h-2 bg-blue-500 border-4 box-content border-gray-900 rounded-full ml-20 transform -translate-x-1/2" aria-hidden="true"></div>
                   <h4 className="h4">Researching Cryptographic Primitives</h4>
@@ -92,7 +92,7 @@ function Timeline() {
               <div className="pl-2">
                 {/* <div className="font-mono text-lg text-blue-500 mb-2">Huge milestone</div> */}
                 <div className="flex items-center mb-3">
-                  <div className="absolute -left-5 inline-flex text-sm font-semibold py-1 px-3  text-gray-700  bg-green-200 rounded-full">Nov 2022</div>
+                  <div className="absolute -left-3 inline-flex text-sm font-semibold py-1 px-2  text-gray-700  bg-green-200 rounded-full">Nov 2022</div>
                   <div className="absolute left-0 h-full px-px bg-gray-800 ml-20 self-start transform -translate-x-1/2 translate-y-3" aria-hidden="true"></div>
                   <div className="absolute left-0 w-2 h-2 bg-blue-500 border-4 box-content border-gray-900 rounded-full ml-20 transform -translate-x-1/2" aria-hidden="true"></div>
                   <h4 className="h4">Zero-Knowledge GPU Hardware Acceleration</h4>
@@ -106,7 +106,7 @@ function Timeline() {
               <div className="pl-2">
                 {/* <div className="font-mono text-lg text-blue-500 mb-2">Huge milestone</div> */}
                 <div className="flex items-center mb-3">
-                  <div className="absolute -left-5 inline-flex text-sm font-semibold py-1 px-3  text-gray-700  bg-green-200 rounded-full">Dec 2022</div>
+                  <div className="absolute -left-3 inline-flex text-sm font-semibold py-1 px-2  text-gray-700  bg-green-200 rounded-full">Dec 2022</div>
                   <div className="absolute left-0 w-2 h-2 bg-blue-500 border-4 box-content border-gray-900 rounded-full ml-20 transform -translate-x-1/2" aria-hidden="true"></div>
                   <h4 className="h4">Customer Discovery</h4>
                 </div>
